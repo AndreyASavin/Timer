@@ -1,0 +1,14 @@
+.block {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(5, 114, 90);
+    color: wheat;
+    border-bottom-left-radius: 30%;
+    border-top-right-radius: 30%;
+    font-size: 2rem;
+}
